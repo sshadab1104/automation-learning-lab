@@ -1,4 +1,4 @@
-package J01_Variables_And_DataTypes.Day_01;
+package Java.J01_Variables_And_DataTypes.Day_01;
 
 public class Ex10_ConvertCelsiusToFahrenheit {
     public static void main(String[] args) {
