@@ -7,7 +7,7 @@ public class Ex03_CheckWhetherStudentPass {
         Scanner sc = new Scanner(System.in);
         System.out.println("Please enter your marks:");
         int marks = sc.nextInt();
-        if(marks >= 18){
+        if(marks >= 35){
             System.out.println("You are passed");
         }
         else {

@@ -11,7 +11,8 @@ public class Ex10_ATM_WithdrawalEligibility {
         int amount = sc.nextInt();
         if (balance >= amount){
             System.out.println("Withdrawal Successful");
-            System.out.println("Remaining Balance : XXXX");
+            int remainingBalance = balance - amount;
+            System.out.println("Remaining Balance :"+remainingBalance);
         }
         else {
             System.out.println("Insufficient Balance");
