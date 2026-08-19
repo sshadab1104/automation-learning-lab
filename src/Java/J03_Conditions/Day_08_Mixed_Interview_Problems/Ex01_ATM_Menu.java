@@ -40,5 +40,6 @@ public class Ex01_ATM_Menu {
             System.out.println("Withdrawal Successful");
             System.out.println("Remaining Balance :"+remainingBalance);
         }
+        sc.close();
     }
 }

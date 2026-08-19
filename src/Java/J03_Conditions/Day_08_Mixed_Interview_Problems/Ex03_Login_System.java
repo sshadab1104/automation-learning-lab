@@ -22,5 +22,6 @@ public class Ex03_Login_System {
         else {
             System.out.println("Invalid Username");
         }
+        sc.close();
     }
 }

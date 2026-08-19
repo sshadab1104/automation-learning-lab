@@ -23,5 +23,6 @@ public class Ex02_StudentResultSystem {
         else {
             System.out.println("Fail");
         }
+        sc.close();
     }
 }
