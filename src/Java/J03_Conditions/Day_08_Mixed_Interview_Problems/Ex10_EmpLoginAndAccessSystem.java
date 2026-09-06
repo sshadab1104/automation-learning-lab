@@ -2,7 +2,7 @@ package Java.J03_Conditions.Day_08_Mixed_Interview_Problems;
 
 import java.util.Scanner;
 
-public class Ex09_EmpLoginAndAccessSystem {
+public class Ex10_EmpLoginAndAccessSystem {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Please enter your Employee ID:");
